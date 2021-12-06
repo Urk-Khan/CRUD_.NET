@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Purposel_Project.Properties
+namespace webForm.Properties
 {
 
 

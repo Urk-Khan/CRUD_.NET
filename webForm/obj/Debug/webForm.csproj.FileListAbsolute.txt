@@ -1,0 +1,11 @@
+E:\Assignments\git Folder\ITCON\webForm\webForm\bin\Debug\webForm.exe.config
+E:\Assignments\git Folder\ITCON\webForm\webForm\bin\Debug\webForm.exe
+E:\Assignments\git Folder\ITCON\webForm\webForm\bin\Debug\webForm.pdb
+E:\Assignments\git Folder\ITCON\webForm\webForm\obj\Debug\webForm.csproj.AssemblyReference.cache
+E:\Assignments\git Folder\ITCON\webForm\webForm\obj\Debug\webForm.csproj.SuggestedBindingRedirects.cache
+E:\Assignments\git Folder\ITCON\webForm\webForm\obj\Debug\webForm.Form1.resources
+E:\Assignments\git Folder\ITCON\webForm\webForm\obj\Debug\webForm.Properties.Resources.resources
+E:\Assignments\git Folder\ITCON\webForm\webForm\obj\Debug\webForm.csproj.GenerateResource.cache
+E:\Assignments\git Folder\ITCON\webForm\webForm\obj\Debug\webForm.csproj.CoreCompileInputs.cache
+E:\Assignments\git Folder\ITCON\webForm\webForm\obj\Debug\webForm.exe
+E:\Assignments\git Folder\ITCON\webForm\webForm\obj\Debug\webForm.pdb

@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{9A20831F-EFF6-4C1A-A861-9DF18381C2D6}</ProjectGuid>
+    <ProjectGuid>{76C94B1E-F515-4087-A775-6658CC416B5D}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>Purposel_Project</RootNamespace>
-    <AssemblyName>Purposel_Project</AssemblyName>
+    <RootNamespace>webForm</RootNamespace>
+    <AssemblyName>webForm</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -46,6 +46,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="dbcon.cs" />
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
