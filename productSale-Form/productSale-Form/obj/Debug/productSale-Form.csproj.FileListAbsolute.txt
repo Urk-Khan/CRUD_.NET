@@ -1,0 +1,13 @@
+E:\Assignments\git Folder\ITCON\CRUD_.NET\productSale-Form\productSale-Form\bin\Debug\productSale-Form.exe.config
+E:\Assignments\git Folder\ITCON\CRUD_.NET\productSale-Form\productSale-Form\bin\Debug\productSale-Form.exe
+E:\Assignments\git Folder\ITCON\CRUD_.NET\productSale-Form\productSale-Form\bin\Debug\productSale-Form.pdb
+E:\Assignments\git Folder\ITCON\CRUD_.NET\productSale-Form\productSale-Form\obj\Debug\productSale-Form.csproj.AssemblyReference.cache
+E:\Assignments\git Folder\ITCON\CRUD_.NET\productSale-Form\productSale-Form\obj\Debug\productSale-Form.csproj.SuggestedBindingRedirects.cache
+E:\Assignments\git Folder\ITCON\CRUD_.NET\productSale-Form\productSale-Form\obj\Debug\productSale_Form.Form1.resources
+E:\Assignments\git Folder\ITCON\CRUD_.NET\productSale-Form\productSale-Form\obj\Debug\productSale_Form.Properties.Resources.resources
+E:\Assignments\git Folder\ITCON\CRUD_.NET\productSale-Form\productSale-Form\obj\Debug\productSale-Form.csproj.GenerateResource.cache
+E:\Assignments\git Folder\ITCON\CRUD_.NET\productSale-Form\productSale-Form\obj\Debug\productSale-Form.csproj.CoreCompileInputs.cache
+E:\Assignments\git Folder\ITCON\CRUD_.NET\productSale-Form\productSale-Form\obj\Debug\productSale-Form.exe
+E:\Assignments\git Folder\ITCON\CRUD_.NET\productSale-Form\productSale-Form\obj\Debug\productSale-Form.pdb
+E:\Assignments\git Folder\ITCON\CRUD_.NET\productSale-Form\productSale-Form\obj\Debug\productSale_Form.Form2.resources
+E:\Assignments\git Folder\ITCON\CRUD_.NET\productSale-Form\productSale-Form\obj\Debug\productSale_Form.Form3.resources
